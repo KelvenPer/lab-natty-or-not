@@ -23,16 +23,18 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Bom , fiz uma breve descrição pessoal e fiz um video usando IA generativa falando sobre o seus beneficios e como ela pode ajudar em projetos pessoais.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Copilot e D-iD
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+O processo de criação é simples, basta acessar o site selecionar algumas fotos e gravar 1 audio e a partir dai criar o video.
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
+- [Vídeo (Avatar Virtual Kelven)](/exemplos/video%20e%20audio.mp4)
+- [Kelven Silva](https://www.linkedin.com/in/falvojr)
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
