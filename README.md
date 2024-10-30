@@ -34,7 +34,7 @@ O processo de criação é simples, basta acessar o site selecionar algumas foto
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
 - [Vídeo (Avatar Virtual Kelven)](/exemplos/video%20e%20audio.mp4)
-- [Kelven Silva](https://www.linkedin.com/in/falvojr)
+- [Kelven Silva](https://www.linkedin.com/in/kelven-silva-83677414b/)
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
